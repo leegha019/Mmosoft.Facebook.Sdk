@@ -1,7 +1,7 @@
 # Mmosoft.Facebook.Sdk
 This api using your user email and password to like page or join group rather than using graph api.
 
-Current support :
+Current support :leegha019@gmail.com
 - Login facebook with user id and password
 - Like/unlike page.
 - Join/ cancel join group
